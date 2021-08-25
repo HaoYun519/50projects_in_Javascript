@@ -1,0 +1,6 @@
+{
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+}
